@@ -44,10 +44,13 @@ Gemini-specific narrator, and replaced them with a JSON-file store, an address-o
 a vendor-neutral `Narrator` interface. The scoring, providers, cache and prompts are otherwise the
 September 2026 code.
 
-The library is published ahead of the Meta AI Developer Hackathon (27 October to 4 November 2026)
-so that work built on top of it during the event can be told apart from what existed before. Any
-hackathon project that depends on this package should pin a tag and say so in its README. Commits
-to this repository made during the event are dated and visible in the history.
+The library was published on the first day of the Meta Global AI Developer Hackathon (26 October to
+4 November 2026). The hackathon opened at 12:00 ET on 26 October; the extraction commit and the
+`pre-hackathon` tag were made at 16:16 ET the same day. The engine itself (scoring, providers,
+cache, prompts) is the September 2026 code; only the extraction and the replacement store, entry
+point and narrator interface were written on 26 October. Any hackathon project that depends on
+this package should pin a tag and say so in its README. Commits to this repository made during the
+event are dated and visible in the history.
 
 ## Install
 

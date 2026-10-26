@@ -1,0 +1,498 @@
+{
+ "version": 0.6,
+ "generator": "Overpass API 0.7.62.11 87bfad18",
+ "osm3s": {
+  "timestamp_osm_base": "2026-09-24T17:06:06Z",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+ },
+ "elements": [
+  {
+   "type": "way",
+   "id": 34610867,
+   "center": {
+    "lat": 39.0771313,
+    "lon": -77.5295045
+   },
+   "tags": {
+    "barrier": "fence",
+    "frequency": "60",
+    "name": "Pleasant View Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "voltage": "500000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 45842781,
+   "center": {
+    "lat": 38.9639315,
+    "lon": -77.5490405
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Brambleton Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "500000;230000;34500;13200"
+   }
+  },
+  {
+   "type": "way",
+   "id": 45842846,
+   "center": {
+    "lat": 39.0758577,
+    "lon": -77.5287732
+   },
+   "tags": {
+    "barrier": "fence",
+    "frequency": "60",
+    "name": "Pleasant View Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 46345399,
+   "center": {
+    "lat": 38.9452803,
+    "lon": -77.4312219
+   },
+   "tags": {
+    "name": "Dulles Substation",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000;34500;13200"
+   }
+  },
+  {
+   "type": "way",
+   "id": 48258624,
+   "center": {
+    "lat": 38.9946602,
+    "lon": -77.4207897
+   },
+   "tags": {
+    "frequency": "60",
+    "name": "Sterling Park Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 59337972,
+   "center": {
+    "lat": 39.0514051,
+    "lon": -77.4982445
+   },
+   "tags": {
+    "barrier": "fence",
+    "frequency": "60",
+    "name": "Ashburn Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "surface": "asphalt",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 59337974,
+   "center": {
+    "lat": 39.0260449,
+    "lon": -77.4563612
+   },
+   "tags": {
+    "barrier": "fence",
+    "frequency": "60",
+    "name": "Beaumeade Substation",
+    "operator": "Virginia Electric & Power Company",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 59409859,
+   "center": {
+    "lat": 38.9529505,
+    "lon": -77.3456065
+   },
+   "tags": {
+    "barrier": "fence",
+    "frequency": "60",
+    "name": "Reston Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 61699342,
+   "center": {
+    "lat": 39.0244826,
+    "lon": -77.4374543
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Beco Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 64881331,
+   "center": {
+    "lat": 38.9197583,
+    "lon": -77.4283718
+   },
+   "tags": {
+    "name": "Discovery Substation",
+    "power": "substation",
+    "voltage": "230000;13200"
+   }
+  },
+  {
+   "type": "way",
+   "id": 79612905,
+   "center": {
+    "lat": 38.9794444,
+    "lon": -77.3615315
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Dranesville Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 136789078,
+   "center": {
+    "lat": 39.113973,
+    "lon": -77.5983894
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Dry Mill South Terminal Station",
+    "power": "substation",
+    "substation": "transition",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 136789079,
+   "center": {
+    "lat": 39.1397319,
+    "lon": -77.6161492
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Breezy Knoll Terminal Station",
+    "operator": "Virginia Electric and Power Company",
+    "power": "substation",
+    "substation": "transition",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 166392209,
+   "center": {
+    "lat": 39.1083168,
+    "lon": -77.5567968
+   },
+   "tags": {
+    "barrier": "fence",
+    "landuse": "industrial",
+    "name": "Leesburg Substation",
+    "operator": "Virginia Electric & Power Company",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "34500"
+   }
+  },
+  {
+   "type": "way",
+   "id": 216701980,
+   "center": {
+    "lat": 39.0040253,
+    "lon": -77.4795857
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Greenway Substation",
+    "operator": "Virginia Electric & Power Company",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000;34500"
+   }
+  },
+  {
+   "type": "way",
+   "id": 262931605,
+   "center": {
+    "lat": 38.9385397,
+    "lon": -77.4260589
+   },
+   "tags": {
+    "barrier": "fence",
+    "construction": "substation",
+    "name": "Park Center Substation",
+    "operator": "Virginia Electric and Power Company",
+    "power": "substation",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 300162678,
+   "center": {
+    "lat": 39.0237304,
+    "lon": -77.4611885
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "NIVO Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 436236811,
+   "center": {
+    "lat": 39.1190108,
+    "lon": -77.6302505
+   },
+   "tags": {
+    "barrier": "wall",
+    "name": "Clark\u2019s Gap Substation",
+    "operator": "NOVEC",
+    "power": "substation",
+    "substation": "minor_distribution",
+    "voltage": "34500"
+   }
+  },
+  {
+   "type": "way",
+   "id": 504125676,
+   "center": {
+    "lat": 39.0750812,
+    "lon": -77.5317536
+   },
+   "tags": {
+    "barrier": "fence",
+    "frequency": "60",
+    "name": "Goose Creek Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "500000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 537569932,
+   "center": {
+    "lat": 39.0649007,
+    "lon": -77.5399338
+   },
+   "tags": {
+    "barrier": "fence",
+    "frequency": "60",
+    "name": "Cochran Mill Delivery Point",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 544875082,
+   "center": {
+    "lat": 38.9660143,
+    "lon": -77.379075
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Herndon Park Substation",
+    "power": "substation",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 597970834,
+   "center": {
+    "lat": 39.0021048,
+    "lon": -77.4804146
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Enterprise Substation",
+    "power": "substation",
+    "substation": "industrial",
+    "voltage": "230000;34500"
+   }
+  },
+  {
+   "type": "way",
+   "id": 666803294,
+   "center": {
+    "lat": 39.0573604,
+    "lon": -77.5410604
+   },
+   "tags": {
+    "name": "Stonewater Substation",
+    "power": "substation",
+    "substation": "switching",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 666803295,
+   "center": {
+    "lat": 39.0582596,
+    "lon": -77.5401313
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Belmont Substation",
+    "operator": "Virginia Electric and Power Company",
+    "power": "substation",
+    "substation": "switching",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 686326401,
+   "center": {
+    "lat": 38.950157,
+    "lon": -77.5183712
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Yardley Ridge Substation",
+    "operator": "Virginia Electric & Power Company",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "switching",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 686326402,
+   "center": {
+    "lat": 38.9173645,
+    "lon": -77.4913272
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Poland Road Substation",
+    "operator": "Virginia Electric and Power Company",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000;34500"
+   }
+  },
+  {
+   "type": "way",
+   "id": 686326405,
+   "center": {
+    "lat": 38.9764074,
+    "lon": -77.490263
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Runway Delivery Point",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000"
+   }
+  },
+  {
+   "type": "way",
+   "id": 686326407,
+   "center": {
+    "lat": 38.9960095,
+    "lon": -77.4383783
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Pacific Substation",
+    "operator": "Dominion Energy",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000;34500"
+   }
+  },
+  {
+   "type": "way",
+   "id": 686326411,
+   "center": {
+    "lat": 38.9988523,
+    "lon": -77.471623
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Shellhorn Substation",
+    "operator": "Virginia Electric & Power Company",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000;34500"
+   }
+  },
+  {
+   "type": "way",
+   "id": 691717623,
+   "center": {
+    "lat": 39.0160818,
+    "lon": -77.4802714
+   },
+   "tags": {
+    "barrier": "fence",
+    "name": "Waxpool Substation",
+    "operator": "Virginia Electric & Power Company",
+    "operator:wikidata": "Q677464",
+    "power": "substation",
+    "substation": "distribution",
+    "voltage": "230000;34500"
+   }
+  }
+ ]
+}

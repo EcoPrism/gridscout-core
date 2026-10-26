@@ -1,0 +1,116 @@
+{
+ "_comment": "Synthetic fixture in the shape of PeeringDB /api/fac. Names and coordinates are fictional; nothing here is PeeringDB data.",
+ "data": [
+  {
+   "id": 1001,
+   "name": "Example Hyperscale Campus A",
+   "org_name": "Amazon Example Cloud",
+   "org_id": 10010,
+   "latitude": 39.052082,
+   "longitude": -77.478453,
+   "city": "Exampleville",
+   "state": "VA",
+   "country": "US",
+   "status": "ok"
+  },
+  {
+   "id": 1002,
+   "name": "Example Hyperscale Campus B",
+   "org_name": "Microsoft Example Datacenters",
+   "org_id": 10020,
+   "latitude": 39.055061,
+   "longitude": -77.512514,
+   "city": "Exampleville",
+   "state": "VA",
+   "country": "US",
+   "status": "ok"
+  },
+  {
+   "id": 1003,
+   "name": "Example Colo DC1",
+   "org_name": "Equinix Example",
+   "org_id": 10030,
+   "latitude": 39.039746,
+   "longitude": -77.478359,
+   "city": "Exampleville",
+   "state": "VA",
+   "country": "US",
+   "status": "ok"
+  },
+  {
+   "id": 1004,
+   "name": "Example Colo DC2",
+   "org_name": "Digital Realty Example",
+   "org_id": 10040,
+   "latitude": 39.01163,
+   "longitude": -77.502476,
+   "city": "Exampleville",
+   "state": "VA",
+   "country": "US",
+   "status": "ok"
+  },
+  {
+   "id": 1005,
+   "name": "Example Colo DC3",
+   "org_name": "CyrusOne Example",
+   "org_id": 10050,
+   "latitude": 39.052404,
+   "longitude": -77.424571,
+   "city": "Exampleville",
+   "state": "VA",
+   "country": "US",
+   "status": "ok"
+  },
+  {
+   "id": 1006,
+   "name": "Example Edge Node 1",
+   "org_name": "Local Fiber Co (fictional)",
+   "org_id": 10060,
+   "latitude": 39.105018,
+   "longitude": -77.473502,
+   "city": "Exampleville",
+   "state": "VA",
+   "country": "US",
+   "status": "ok"
+  },
+  {
+   "id": 1007,
+   "name": "Example Edge Node 2",
+   "org_name": "Regional Telco (fictional)",
+   "org_id": 10070,
+   "latitude": 39.020382,
+   "longitude": -77.570241,
+   "city": "Exampleville",
+   "state": "VA",
+   "country": "US",
+   "status": "ok"
+  },
+  {
+   "id": 1008,
+   "name": "Far Away Facility",
+   "org_name": "Edge Example",
+   "org_id": 10080,
+   "latitude": 39.0438,
+   "longitude": -77.348205,
+   "city": "Exampleville",
+   "state": "VA",
+   "country": "US",
+   "status": "ok"
+  },
+  {
+   "id": 1009,
+   "name": "No Coordinates Facility",
+   "org_name": "Edge Example",
+   "org_id": 10090,
+   "latitude": null,
+   "longitude": null,
+   "city": "Exampleville",
+   "state": "VA",
+   "country": "US",
+   "status": "ok"
+  }
+ ],
+ "meta": {
+  "generated": true
+ }
+}

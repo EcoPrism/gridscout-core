@@ -1,0 +1,258 @@
+{
+ "warnings": [
+  {
+   "warning": "incomplete return",
+   "description": "The API can only return 5000 rows in JSON format.  Please consider constraining your request with facet, start, or end, or using offset to paginate results."
+  }
+ ],
+ "response": {
+  "total": "306",
+  "dateFormat": "YYYY-MM",
+  "frequency": "monthly",
+  "data": [
+   {
+    "period": "2026-06",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "10.99",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2026-05",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "10.84",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2026-04",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "10.33",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2026-03",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "10.16",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2026-02",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "13.01",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2026-01",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "11.43",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-12",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "10.21",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-11",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "10.28",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-10",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "10.15",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-09",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "9.96",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-08",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "9.46",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-07",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "10.21",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-06",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "9.43",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-05",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "8.99",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-04",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "9.03",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-03",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "8.84",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-02",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "9.1",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2025-01",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "8.87",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2024-12",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "8.86",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2024-11",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "8.28",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2024-10",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "8.8",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2024-09",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "8.52",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2024-08",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "8.07",
+    "price-units": "cents per kilowatt-hour"
+   },
+   {
+    "period": "2024-07",
+    "stateid": "VA",
+    "stateDescription": "Virginia",
+    "sectorid": "COM",
+    "sectorName": "commercial",
+    "price": "8.67",
+    "price-units": "cents per kilowatt-hour"
+   }
+  ],
+  "description": "Electricity sales to ultimate customer by state and sector (number of customers, average price, revenue, and megawatthours of sales).  \n    Sources: Forms EIA-826, EIA-861, EIA-861M"
+ },
+ "request": {
+  "command": "/v2/electricity/retail-sales/data/",
+  "params": {
+   "frequency": "monthly",
+   "data": [
+    "price"
+   ],
+   "facets": {
+    "stateid": [
+     "VA"
+    ],
+    "sectorid": [
+     "COM"
+    ]
+   },
+   "sort": [
+    {
+     "column": "period",
+     "direction": "desc"
+    }
+   ],
+   "length": "24"
+  }
+ },
+ "apiVersion": "2.1.14",
+ "ExcelAddInVersion": "2.1.0"
+}

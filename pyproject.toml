@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gridscout-core"
+version = "0.1.0"
+description = "Score a street address for electricity-grid stress from nearby data-centre build-out, with explicit data provenance."
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10"
+authors = [{ name = "EcoPrism" }]
+keywords = ["data centers", "electricity", "grid", "energy", "openstreetmap", "peeringdb", "eia"]
+classifiers = [
+  "License :: OSI Approved :: Apache Software License",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: GIS",
+]
+dependencies = [
+  "httpx>=0.27",
+  "tenacity>=8.2",
+  "pydantic>=2.5",
+  "geopy>=2.4",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-asyncio>=0.23", "respx>=0.21"]
+
+[project.scripts]
+gridscout = "gridscout.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/EcoPrism/gridscout-core"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
